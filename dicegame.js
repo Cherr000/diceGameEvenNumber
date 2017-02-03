@@ -13,7 +13,7 @@ function gameStarter() {
 	gamePlay();
 }
 function gameRule() {
-	return alert ("First one to get even number win the game, if tie reply.");
+	return alert ("First one to get even number win the game, if tie replay.");
 }
 function selectionDice() {
 	var diceOption = prompt ("Selection Dice Choice. 4,6,8,10,12 or 20");
